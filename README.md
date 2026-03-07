@@ -1,10 +1,7 @@
 # Heloo ![bk](bk.gif)
 Here's my about me, if you even care:
 
-https://vuvien.nekoweb.org
+[vuvien.nekoweb.org](https://vuvien.nekoweb.org)
 
-https://skewers.neocities.org
-
-https://vu-vien.github.io
-
+[vuvien.xyz](https://vuvien.xyz)
 ![a](image2.png)
